@@ -5,7 +5,7 @@ https://leetcode.com/problems/maximum-subarray/description/
 238번
 https://leetcode.com/problems/product-of-array-except-self/description/
 
-파일명 이름.py로 push 해주시면 감사하겠습니다
+파일명 이름_문제번호.py로 push 해주시면 감사하겠습니다
 
 git 관련 참고사항
 
