@@ -1,1 +1,22 @@
-test
+1주차 과제
+53번
+https://leetcode.com/problems/maximum-subarray/description/
+
+238번
+https://leetcode.com/problems/product-of-array-except-self/description/
+
+파일명 이름.py로 push 해주시면 감사하겠습니다
+
+git 관련 참고사항
+
+
+repo 컴퓨터에 가져오기
+git clone https://github.com/chjwon/KISA25SpDev.git
+
+제출전 pull 한번 체크하기
+git pull
+
+제출시
+git add .
+git commit -m "commit 메시지"
+git push
