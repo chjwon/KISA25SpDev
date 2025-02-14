@@ -1,6 +1,7 @@
 2주차 과제
+
 11번
-https://leetcode.com/problems/3sum/description/
+https://leetcode.com/problems/container-with-most-water/description/
 
 15번
 https://leetcode.com/problems/3sum/description/
@@ -20,9 +21,13 @@ repo 컴퓨터에 가져오기
 git clone https://github.com/chjwon/KISA25SpDev.git
 
 제출전 pull 한번 체크하기
+
 git pull
 
 제출시
+
 git add .
+
 git commit -m "commit 메시지"
+
 git push
